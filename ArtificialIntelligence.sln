@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ArtificialIntelligence", "ArtificialIntelligence\ArtificialIntelligence.pyproj", "{379D2A07-8B4D-4E29-BFC9-A31F688689ED}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IntroToPython", "ArtificialIntelligence\IntroToPython.pyproj", "{379D2A07-8B4D-4E29-BFC9-A31F688689ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
