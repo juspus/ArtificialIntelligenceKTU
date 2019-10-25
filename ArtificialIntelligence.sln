@@ -1,11 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.421
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IntroToPython", "ArtificialIntelligence\IntroToPython.pyproj", "{379D2A07-8B4D-4E29-BFC9-A31F688689ED}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonIntro2", "PythonIntro2\PythonIntro2.pyproj", "{B90945BA-6EB1-4A7C-80E2-394A34FE7422}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NeuralNetworkIntro", "NeuralNetworkIntro\NeuralNetworkIntro.pyproj", "{A5EB0B38-C5FB-4934-A45B-C084819579E8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NeuralNetwork2", "NeuralNetwork2\NeuralNetwork2.pyproj", "{03F0C3C3-5E63-49D1-8B24-AD01F6E5E745}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AILibraries", "AILibraries\AILibraries.pyproj", "{9CCA886D-4CB9-44F3-AE50-DD5C50D4FC88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +23,12 @@ Global
 		{379D2A07-8B4D-4E29-BFC9-A31F688689ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B90945BA-6EB1-4A7C-80E2-394A34FE7422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B90945BA-6EB1-4A7C-80E2-394A34FE7422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EB0B38-C5FB-4934-A45B-C084819579E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EB0B38-C5FB-4934-A45B-C084819579E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F0C3C3-5E63-49D1-8B24-AD01F6E5E745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F0C3C3-5E63-49D1-8B24-AD01F6E5E745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCA886D-4CB9-44F3-AE50-DD5C50D4FC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCA886D-4CB9-44F3-AE50-DD5C50D4FC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
